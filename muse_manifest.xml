@@ -1,0 +1,108 @@
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="Komori.com" resolutions="1x" timestamp="1441559677932">
+  <folder name="css">
+    <file name="site_global.css" crc="3881928330"/>
+    <file name="index.css" crc="361598689" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="phone>index:tablet>index:index"/>
+    <file name="museutils.js" crc="275725342" ref="phone>index:tablet>index:index"/>
+    <file name="webpro.js" crc="3883484123" ref="phone>index:tablet>index:index"/>
+    <file name="musewpslideshow.js" crc="360574455" ref="phone>index:tablet>index"/>
+    <file name="jquery.museoverlay.js" crc="342093292" ref="phone>index:tablet>index"/>
+    <file name="touchswipe.js" crc="4218319045" ref="phone>index:tablet>index"/>
+    <file name="jquery.scrolleffects.js" crc="206645848" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="phone>index:tablet>index:index"/>
+    <file name="pie.js" crc="3827607177" ref="phone>index:tablet>index:index"/>
+    <file name="form_check.php" crc="3932029206" ref="phone>index:tablet>index:index"/>
+    <file name="form_throttle.php" crc="314685628" ref="phone>index:tablet>index:index"/>
+    <file name="form_process.php" crc="401030677" ref="phone>index:tablet>index:index"/>
+    <file name="form-u2107.php" crc="4137306959" ref="phone>index"/>
+    <file name="museredirect.js" crc="3899419633" ref="tablet>index:index"/>
+    <file name="form-u2066.php" crc="3995255319" ref="tablet>index"/>
+    <file name="form-u408.php" crc="4116766155" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="u1605.png" crc="3936616513" ref="phone>index"/>
+    <file name="u1605-r.png" crc="3805825367" ref="phone>index"/>
+    <file name="u1609.png" crc="81151641" ref="phone>index"/>
+    <file name="u1609-r.png" crc="4243815423" ref="phone>index"/>
+    <file name="u1607.png" crc="171216067" ref="phone>index"/>
+    <file name="u1607-r.png" crc="315577091" ref="phone>index"/>
+    <file name="bkg_01.jpg" crc="4006404638" ref="phone>index:tablet>index"/>
+    <file name="img_02.jpg" crc="243498797" ref="phone>index:tablet>index"/>
+    <file name="img_04.jpg" crc="4090859366" ref="phone>index:tablet>index"/>
+    <file name="img_01.jpg" crc="231211065" ref="phone>index:tablet>index"/>
+    <file name="img_05.jpg" crc="4012734519" ref="phone>index:tablet>index"/>
+    <file name="img_03.jpg" crc="4132196467" ref="phone>index:tablet>index"/>
+    <file name="img_07.jpg" crc="365295197" ref="phone>index:tablet>index"/>
+    <file name="bkg_02.jpg" crc="4019005361" ref="phone>index:tablet>index"/>
+    <file name="u2112-17.png" crc="4194694477" ref="phone>index"/>
+    <file name="u2112-17-r.png" crc="382258029" ref="phone>index"/>
+    <file name="u2112-17-m.png" crc="382258029" ref="phone>index"/>
+    <file name="u2112-17-fs.png" crc="4194694477" ref="phone>index"/>
+    <file name="social_06_linkedin-u2589.png" crc="352832810" ref="phone>index"/>
+    <file name="social_09_vimeo-u2591.png" crc="4011200427" ref="phone>index"/>
+    <file name="social_01_twitter-u2587.png" crc="343893502" ref="phone>index"/>
+    <file name="u1595.png" crc="3871035325" ref="tablet>index"/>
+    <file name="u1595-r.png" crc="3759278143" ref="tablet>index"/>
+    <file name="u1599.png" crc="3848521147" ref="tablet>index"/>
+    <file name="u1599-r.png" crc="160210354" ref="tablet>index"/>
+    <file name="u1597.png" crc="168641837" ref="tablet>index"/>
+    <file name="u1597-r.png" crc="4248504002" ref="tablet>index"/>
+    <file name="u2100-17.png" crc="4194694477" ref="tablet>index"/>
+    <file name="u2100-17-r.png" crc="382258029" ref="tablet>index"/>
+    <file name="u2100-17-m.png" crc="382258029" ref="tablet>index"/>
+    <file name="u2100-17-fs.png" crc="4194694477" ref="tablet>index"/>
+    <file name="social_06_linkedin-u2609.png" crc="352832810" ref="tablet>index"/>
+    <file name="social_09_vimeo-u2611.png" crc="4011200427" ref="tablet>index"/>
+    <file name="social_01_twitter-u2607.png" crc="343893502" ref="tablet>index"/>
+    <file name="wbe2adjqzk2ubcbmiy7t_dsc_0285.jpg" crc="4047669701" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u144_states.png" crc="86150556" ref="index"/>
+    <file name="u144_states-r.png" crc="3847968399" ref="index"/>
+    <file name="u144_states-a.png" crc="3813830586" ref="index"/>
+    <file name="u145_states.png" crc="3966825520" ref="index"/>
+    <file name="u145_states-r.png" crc="504616408" ref="index"/>
+    <file name="u145_states-a.png" crc="431479154" ref="index"/>
+    <file name="u150_states.png" crc="479634888" ref="index"/>
+    <file name="u150_states-r.png" crc="3781702853" ref="index"/>
+    <file name="u150_states-a.png" crc="4223455444" ref="index"/>
+    <file name="u517_states.png" crc="3976186637" ref="index"/>
+    <file name="u517_states-r.png" crc="4070197080" ref="index"/>
+    <file name="u517_states-a.png" crc="4142929226" ref="index"/>
+    <file name="u165-4.png" crc="493240334" ref="index"/>
+    <file name="photo-1423847043837-fb9c6f1064c7.jpg" crc="209071243" seo="true" ref="index"/>
+    <file name="photo-1431540015161-0bf868a2d407.jpg" crc="370303491" seo="true" ref="index"/>
+    <file name="doctype-hi-res.jpg" crc="4217733262" ref="index"/>
+    <file name="photo-1429051883746-afd9d56fbdaf.jpg" crc="185047872" ref="index"/>
+    <file name="photo-1432539624400-b22a95873b7a.jpg" crc="4110208685" ref="index"/>
+    <file name="atlanta_georgia_skyline.jpg" crc="4162168424" ref="index"/>
+    <file name="u413-17.png" crc="4064442882" ref="index"/>
+    <file name="u413-17-r.png" crc="433135583" ref="index"/>
+    <file name="u413-17-m.png" crc="433135583" ref="index"/>
+    <file name="u413-17-fs.png" crc="4064442882" ref="index"/>
+    <file name="u2565.png" crc="4283347284" ref="index"/>
+    <file name="u2565-r.png" crc="4241916142" ref="index"/>
+    <file name="u2565-m.png" crc="3912906494" ref="index"/>
+    <file name="u2563.png" crc="425274644" ref="index"/>
+    <file name="u2563-r.png" crc="3977991718" ref="index"/>
+    <file name="u2563-m.png" crc="469272299" ref="index"/>
+    <file name="u2567.png" crc="3908616951" ref="index"/>
+    <file name="u2567-r.png" crc="147176841" ref="index"/>
+    <file name="u2567-m.png" crc="56892189" ref="index"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="index.css" crc="4191594357" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="233012026" seo="true" mt="1441558317957" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="338846204" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="284720997" seo="true" mt="1441558317963" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="405317932" seo="true" mt="1441559673915" redirect="true"/>
+</manifest>
